@@ -1,2 +1,2 @@
 # HTML
-HTML Patika.dev Kursları
+HTML Patika.dev Kursu
