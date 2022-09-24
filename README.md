@@ -1,2 +1,2 @@
-# HTML-1.-Proje
+# HTML1
 HTML Patika.dev Kursları
